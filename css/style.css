@@ -1,0 +1,26 @@
+* {
+    color: lightskyblue;
+    background-color: lightskyblue;
+}
+
+
+.bl {
+    background-color: black;
+    color: #000;
+}
+
+.yw {
+    background-color: rgb(255, 213, 27);
+}
+
+.ywl {
+    background-color: rgb(255, 255, 86);
+}
+
+.og {
+    background-color: orange;
+}
+
+.dyw {
+    background-color: rgba(223, 155, 8, 0.938);
+}
